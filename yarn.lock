@@ -39,6 +39,11 @@
   resolved "https://registry.npm.taobao.org/@emmetio/scanner/download/@emmetio/scanner-1.0.0.tgz#065b2af6233fe7474d44823e3deb89724af42b5f"
   integrity sha1-Blsq9iM/50dNRII+PeuJckr0K18=
 
+"@interactjs/types@1.10.11":
+  version "1.10.11"
+  resolved "https://registry.npm.taobao.org/@interactjs/types/download/@interactjs/types-1.10.11.tgz#29be25d503f9c7842df062fa3cda5b044a47cf2a"
+  integrity sha1-Kb4l1QP5x4Qt8GL6PNpbBEpHzyo=
+
 "@vitejs/plugin-vue@^1.9.3":
   version "1.9.3"
   resolved "https://registry.npmmirror.com/@vitejs/plugin-vue/download/@vitejs/plugin-vue-1.9.3.tgz#93d61893ce6c723d0209af0483ec8b91a2cd811f"
@@ -446,6 +451,13 @@ htmlparser2@^6.1.0:
     domhandler "^4.0.0"
     domutils "^2.5.2"
     entities "^2.0.0"
+
+interactjs@^1.10.11:
+  version "1.10.11"
+  resolved "https://registry.npm.taobao.org/interactjs/download/interactjs-1.10.11.tgz#0b9eabe37f1f82fff68e22faad51269b8f2038ea"
+  integrity sha1-C56r438fgv/2jiL6rVEmm48gOOo=
+  dependencies:
+    "@interactjs/types" "1.10.11"
 
 is-core-module@^2.2.0:
   version "2.8.0"
